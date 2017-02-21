@@ -12,3 +12,7 @@ github demo
 ---
 > 下载windows GitHub 客户端
 * https://desktop.github.com/
+
+---
+> 查看所有快捷键
+* 在各个页面按下 shift+/
